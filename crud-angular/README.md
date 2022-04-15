@@ -1,3 +1,8 @@
+### Comando para criar o projeto.
+
+Instalar o Node.js
+--- https://nodejs.org/en/
+
 Instalando o angular globalmente
 ### npm install –g @angular/cli
 
@@ -13,4 +18,4 @@ Roda o projeto: http://localhost:4200/
 Angular Material - https://material.angular.io/guide/getting-started
 ### ng add @angular/material
 
-### npm install –save @angular/material @angular/cdk
+### npm install --save @angular/material @angular/cdk
