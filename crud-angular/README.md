@@ -19,3 +19,6 @@ Angular Material - https://material.angular.io/guide/getting-started
 ### ng add @angular/material
 
 ### npm install --save @angular/material @angular/cdk
+
+Roda o projeto: http://localhost:4200/
+### ng serve
