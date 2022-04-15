@@ -22,3 +22,10 @@ Angular Material - https://material.angular.io/guide/getting-started
 
 Roda o projeto: http://localhost:4200/
 ### ng serve
+
+
+Modulos
+### ng g m my_app
+
+
+
