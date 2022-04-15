@@ -6,7 +6,7 @@ Instalar o Node.js
 Instalando o angular globalmente
 ### npm install –g @angular/cli
 
-Verifica a versão do angular instalado
+Verifica a versão do angular instalando
 ### ng --version
 
 Cria o projeto Angular
@@ -23,9 +23,9 @@ Angular Material - https://material.angular.io/guide/getting-started
 Roda o projeto: http://localhost:4200/
 ### ng serve
 
+Modulos, routing.
+### ng g m my_app --routing
 
-Modulos
-### ng g m my_app
-
-
+CLI Overview and Command Reference. -- https://angular.io/cli
+### ng g c courses/courses
 
